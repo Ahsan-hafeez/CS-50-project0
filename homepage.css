@@ -1,0 +1,30 @@
+body{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+p{
+
+  color:blue;
+  text-align: justify;
+}
+
+
+
+p{
+
+  text-align: justify;
+  margin-right: 600px;
+  margin-left: 170px;
+  padding-top: 10px;
+  color: white;
+  font-size: 25px;
+}
+img {
+  border-radius: 50%;
+  margin-left: 200px;
+}
+h3{
+ color:white;
+
+}
